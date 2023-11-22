@@ -20,7 +20,7 @@
 
 import Foundation
 import UIKit
-import ProtonCore
+// import ProtonCore
 
 /// Type of attachment
 public enum AttachmentType {

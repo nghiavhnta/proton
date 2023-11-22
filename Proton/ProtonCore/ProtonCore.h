@@ -14,6 +14,6 @@ FOUNDATION_EXPORT double ProtonCoreVersionNumber;
 //! Project version string for ProtonCore.
 FOUNDATION_EXPORT const unsigned char ProtonCoreVersionString[];
 
-#import <ProtonCore/PRTextStorage.h>
-#import <ProtonCore/PREditorContentName.h>
+#import <PRTextStorage.h>
+#import <PREditorContentName.h>
 

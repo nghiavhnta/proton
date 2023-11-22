@@ -20,7 +20,7 @@
 
 import Foundation
 import UIKit
-import ProtonCore
+// import ProtonCore
 
 /// Describes an object interested in observing the bounds of a view. `Attachment` is `BoundsObserving` and reacts to
 /// changes in the bounds of views hosted within the `Attachment`. Any view contained in the `Attachment` that is capable of

@@ -20,7 +20,7 @@
 
 import Foundation
 import UIKit
-import ProtonCore
+// import ProtonCore
 
 /// Describes an object (typically attachment view) that may change size during the layout pass
 public protocol DynamicBoundsProviding: AnyObject {

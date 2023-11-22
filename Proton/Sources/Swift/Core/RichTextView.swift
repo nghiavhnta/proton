@@ -20,7 +20,7 @@
 
 import Foundation
 import UIKit
-import ProtonCore
+// import ProtonCore
 
 class RichTextView: AutogrowingTextView {
     
