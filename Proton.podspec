@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
   s.source = { :git => "https://github.com/nghiavhnta/proton.git", :tag => s.version.to_s }
   s.swift_version = '5.7'
   s.cocoapods_version = '>= 1.5.0'
-  s.source_files  = "Proton/Sources/**/*.{h,m,swift}", "Proton/ProtonCore/**/*.{h,m,swift}"
+  s.source_files  = "Proton/Sources/**/*.{h,m,swift}"
 end
